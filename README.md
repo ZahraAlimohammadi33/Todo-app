@@ -36,3 +36,14 @@ A simple front-end application built with vanilla JavaScript that simulates data
 3. All data is stored automatically in the browser’s localStorage
 
 ---
+
+
+👤 Author
+A self-taught computer engineering student passionate about front-end development and modern JavaScript practices.
+
+📬 Contact
+Feel free to reach out or check out more projects:
+
+GitHub: ZahraAlimohammadi33
+
+⭐️ If you like this project, consider starring the repository. It helps a lot!
