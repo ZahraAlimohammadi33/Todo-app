@@ -2,6 +2,9 @@
 
 A simple front-end application built with vanilla JavaScript that simulates data management using the browser's `localStorage`. This project demonstrates how to persist user interactions without a backend.
 
+🔗 **Live Demo:**  
+https://todo-app-rho-sage-43.vercel.app/
+
 ---
 
 ## 🚀 Features
