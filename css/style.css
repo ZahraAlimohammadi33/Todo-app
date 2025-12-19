@@ -88,7 +88,6 @@ thead th{
 }
 
 thead th:first-child{
-    border-radius: 20px;
     border-top-left-radius: 10px;
 } 
 
@@ -145,4 +144,5 @@ tbody td button:nth-child(3){
 
 #edit-button{
     display: none;
+
 }
